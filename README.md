@@ -4,7 +4,7 @@
 
 
 - 📫 How to reach me via Email: thevarunkuk@gmail.com
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=implosion07&show_icons=true&locale=en&layout=compact" alt="implosion07" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=implosion07&show_icons=true&locale=en" alt="implosion07" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=implosion07" alt="implosion07" /></a> </p>
