@@ -1,23 +1,24 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
-<h1 align="center">Hi 👋, I'm VARUN KUKRETI</h1>
+<h1 align="center">Hi 👋, I'm Varun Kukreti</h1>
 <h3 align="center">A student and an enthusiast of Data Science, Machine Learning and Deep learning from India</h3>
 
 
+<h3 align="left">Get in touch with me:</h3>
+- 📫 Email: thevarunkuk@gmail.com </p>
+- :thought_balloon: Skype Profile Name: <a href="https://www.skype.com/en/" target= "blank"> VARUN KUKRETI </a></p>
+- :left_speech_bubble: Telegram: <a href="https://t.me/VARUN_KUKRETI" target= "blank"> @VARUN_KUKRETI </a>
 
-- 📫 How to reach me via Email: thevarunkuk@gmail.com
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=implosion07&show_icons=true&locale=en&count_private=True&theme=tokyonight&hide=stars" alt="implosion07" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=implosion07" alt="implosion07" /></a> </p>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/varunkukreti1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunkukreti1" height="30" width="40" /></a>
+<a href="https://twitter.com/the_varun_kuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunkukreti1" height="30" width="40" /></a>
 <a href="https://github.com/implosion07" target="blank"><img align="center" src="https://findicons.com/files/icons/2779/simple_icons/2048/github_2048_black.png" alt="varunkukreti1" height="50" width="50" /></a>
 </p>
 
