@@ -8,8 +8,8 @@
 <h3 align="left">Get in touch with me:</h3>
 - 📫 Email: thevarunkuk@gmail.com </p>
 - 🔗 Website: https://implosion07.github.io </p>
-- :thought_balloon: Skype Profile Name: <a href="https://www.skype.com/en/" target= "blank"> VARUN KUKRETI </a></p>
-- :left_speech_bubble: Telegram: <a href="https://t.me/VARUN_KUKRETI" target= "blank"> @VARUN_KUKRETI </a>
+<!--- :thought_balloon: Skype Profile Name: <a href="https://www.skype.com/en/" target= "blank"> VARUN KUKRETI </a></p>
+- :left_speech_bubble: Telegram: <a href="https://t.me/VARUN_KUKRETI" target= "blank"> @VARUN_KUKRETI </a>-->
 
 
 
