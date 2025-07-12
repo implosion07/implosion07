@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Varun Kukreti</h1>
-<h3 align="center">A graduate student of CS from India, with huge interest in Data Science, Machine Learning, Deep Learning and Software Development.fMySQL</h3>
+<h3 align="center">A graduate student of CS from India, with huge interest in Data Science, Machine Learning, Deep Learning and Software Development.</h3>
 
 
 <h3 align="left">Get in touch with me:</h3>
